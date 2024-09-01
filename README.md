@@ -1,6 +1,6 @@
 #  Pump Failure Prediction Project Setup Guide
 
-This guide provides the necessary steps to set up and run the Pump Failure Detection project. Follow the instructions below to ensure a smooth setup process.
+This guide provides the necessary steps to set up and run the Pump Failure Prediction project. Follow the instructions below to ensure a smooth setup process.
 
 ## Prerequisites
 
