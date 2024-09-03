@@ -10,7 +10,10 @@ This guide provides the necessary steps to set up and run the Pump Failure Predi
 
 ## Installation Steps
 
-### Step 1: Install `virtualenv`
+### Step 1: clone the repository and Install `virtualenv`
+To clone repository use the give command:
+
+`git clone https://github.com/noumanaziz7241/Pump-Failure-Prediction.git`
 
 To create a virtual environment for the project, you need to install `virtualenv`:
 
