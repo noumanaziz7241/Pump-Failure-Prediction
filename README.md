@@ -1,6 +1,11 @@
 #  Pump Failure Prediction Project Setup Guide
 
+
 This guide provides the necessary steps to set up and run the Pump Failure Prediction project. Follow the instructions below to ensure a smooth setup process.
+
+## About this Project
+
+The primary goal of this project is to identify industrial pump failures in real-world conditions. I employed several machine learning models to determine whether an industrial pump is experiencing a failure or operating normally.
 
 ## Prerequisites
 
